@@ -45,7 +45,7 @@
     "@langchain/google-vertexai": "^0.1.4",
     "@langchain/textsplitters": "^0.1.0",
     "@librechat/agents": "^1.8.8",
-    "axios": "^1.7.7",
+    "axios": "^1.12.0",
     "bcryptjs": "^2.4.3",
     "cheerio": "^1.0.0-rc.12",
     "cohere-ai": "^7.9.1",
